@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedidos SYSTEM "fase1.dtd">
+<pedidos>
+    <año año="2021">
+        <trimestre trimestre="1">
+        <pedido>
+            <nombre>María</nombre>
+            <apellidos>González Pérez</apellidos>
+            <telefono>653-458-798</telefono>
+            <direccion>
+                <calle>Calle del Sol 123</calle>
+                <ciudad>Madrid</ciudad>
+                <codigo_postal>28001</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>maria.gonzalez@gmail.com</correo>
+            <fecha_inclusion>2021-01-15</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0001</numero_pedido>
+                <fecha_compra>2021-01-15</fecha_compra>
+                <fecha_entrega>2021-01-18</fecha_entrega>
+                <total_factura>80.50</total_factura>
+            <producto>
+                <nombre>Camiseta de algodón size S</nombre>
+                <referencia>1234</referencia>
+                <precio>20.00</precio>
+                <unidades>2</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón vaquero size S</nombre>
+                <referencia>5678</referencia>
+                <precio>35.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Jersey de lana size S</nombre>
+                <referencia>9012</referencia>
+                <precio>20.50</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Javier</nombre>
+            <apellidos>Rodríguez García</apellidos>
+            <telefono>156-785-466</telefono>
+            <direccion>
+                <calle>Calle de la Luna 456</calle>
+                <ciudad>Barcelona</ciudad>
+                <codigo_postal>08001</codigo_postal>
+                <provincia>Barcelona</provincia>
+            </direccion>
+            <correo>javier.rodriguez@gmail.com</correo>
+            <fecha_inclusion>2021-02-01</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0002</numero_pedido>
+                <fecha_compra>2021-02-01</fecha_compra>
+                <fecha_entrega>2021-02-04</fecha_entrega>
+                <total_factura>51.90</total_factura>
+            <producto>
+                <nombre>Camisa de algodón roja size M</nombre>
+                <referencia>5678</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón de cuero size M</nombre>
+                <referencia>9012</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Marta</nombre>
+            <apellidos>Sanchez Torres</apellidos>
+            <telefono>653-458-985</telefono>
+            <direccion>
+                <calle>Calle de los Planetas 45</calle>
+                <ciudad>Jaén</ciudad>
+                <codigo_postal>47852</codigo_postal>
+                <provincia>Baeza</provincia>
+            </direccion>
+            <correo>martasnchz@gmail.com</correo>
+            <fecha_inclusion>2021-02-22</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0003</numero_pedido>
+                <fecha_compra>2021-02-22</fecha_compra>
+                <fecha_entrega>2021-02-29</fecha_entrega>
+                <total_factura>69.95</total_factura>
+            <producto>
+                <nombre>Plumífero con capucha size L</nombre>
+                <referencia>5014</referencia>
+                <precio>69.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-02-23</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0004</numero_pedido>
+                <fecha_compra>2021-02-23</fecha_compra>
+                <fecha_entrega>2021-02-30</fecha_entrega>
+                <total_factura>19.99</total_factura>
+            <producto>
+                <nombre>Pack camisetas básicas size M</nombre>
+                <referencia>01248</referencia>
+                <precio>19.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Rebeca</nombre>
+            <apellidos>Fernández Torrijos</apellidos>
+            <telefono>653-297-985</telefono>
+            <direccion>
+                <calle>Calle de la Fantasía 22</calle>
+                <ciudad>Pinto</ciudad>
+                <codigo_postal>28795</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>mrebecaf@gmail.com</correo>
+            <fecha_inclusion>2021-02-23</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0005</numero_pedido>
+                <fecha_compra>2021-02-23</fecha_compra>
+                <fecha_entrega>2021-02-26</fecha_entrega>
+                <total_factura>38.94</total_factura>
+            <producto>
+                <nombre>Sudadera Oversized size S</nombre>
+                <referencia>2145</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Leggins sintéticos size XS</nombre>
+                <referencia>1498</referencia>
+                <precio>12.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-02-24</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0006</numero_pedido>
+                <fecha_compra>2021-02-25</fecha_compra>
+                <fecha_entrega>2021-02-27</fecha_entrega>
+                <total_factura>46.90</total_factura>
+            <producto>
+                <nombre>Jean Regular Fit size M</nombre>
+                <referencia>6584</referencia>
+                <precio>30.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Sudadera Basic Beige size M</nombre>
+                <referencia>1479</referencia>
+                <precio>15.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-02-26</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0007</numero_pedido>
+                <fecha_compra>2021-03-01</fecha_compra>
+                <fecha_entrega>2021-03-05</fecha_entrega>
+                <total_factura>66.90</total_factura>
+            <producto>
+                <nombre>Joggers de algodón size M</nombre>
+                <referencia>0458</referencia>
+                <precio>20.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Chaqueta Cuero size M</nombre>
+                <referencia>0698</referencia>
+                <precio>45.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-03-01</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0008</numero_pedido>
+                <fecha_compra>2021-03-03</fecha_compra>
+                <fecha_entrega>2021-03-06</fecha_entrega>
+                <total_factura>19.99</total_factura>
+            <producto>
+                <nombre>Camiseta estampado Print size M</nombre>
+                <referencia>2895</referencia>
+                <precio>19.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-03-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0009</numero_pedido>
+                <fecha_compra>2021-03-06</fecha_compra>
+                <fecha_entrega>2021-05-08</fecha_entrega>
+                <total_factura>15.95</total_factura>
+            <producto>
+                <nombre>Pack Gorros</nombre>
+                <referencia>7895</referencia>
+                <precio>15.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Luis</nombre>
+            <apellidos>García Pérez</apellidos>
+            <telefono>458-789-123</telefono>
+            <direccion>
+                <calle>Calle del Canal 8</calle>
+                <ciudad>Gandía</ciudad>
+                <codigo_postal>69877</codigo_postal>
+                <provincia>Valencia</provincia>
+            </direccion>
+            <correo>luisgp.12@gmail.com</correo>
+            <fecha_inclusion>2021-03-07</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0010</numero_pedido>
+                <fecha_compra>2021-03-07</fecha_compra>
+                <fecha_entrega>2021-03-11</fecha_entrega>
+                <total_factura>14.94</total_factura>
+            <producto>
+                <nombre>Set pulseras doradas</nombre>
+                <referencia>01248</referencia>
+                <precio>7.99</precio>
+                <unidades>1</unidades>
+                </producto>
+            <producto>
+                <nombre>Pack calcetines size 40</nombre>
+                <referencia>3695</referencia>
+                <precio>6.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        </trimestre>
+        <trimestre trimestre="2">
+        <pedido>
+            <nombre>Malena</nombre>
+            <apellidos>Del Prado Verde</apellidos>
+            <telefono>633-478-462</telefono>
+            <direccion>
+                <calle>Calle del Parque 78</calle>
+                <ciudad>Getafe</ciudad>
+                <codigo_postal>28565</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>malenaprad@gmail.com</correo>
+            <fecha_inclusion>2021-06-02-</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0011</numero_pedido>
+                <fecha_compra>2021-06-02</fecha_compra>
+                <fecha_entrega>2021-06-09</fecha_entrega>
+                <total_factura>91.85</total_factura>
+            <producto>
+                <nombre>Vestido Satinado Azul size S</nombre>
+                <referencia>2387</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón Skinny size S</nombre>
+                <referencia>8951</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Blazer Crop Black size S</nombre>
+                <referencia>1238</referencia>
+                <precio>39.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0012</numero_pedido>
+                <fecha_compra>2021-06-03</fecha_compra>
+                <fecha_entrega>2021-06-10</fecha_entrega>
+                <total_factura>64.94</total_factura>
+            <producto>
+                <nombre>Vestido Midi Licra size S</nombre>
+                <referencia>02574</referencia>
+                <precio>20.00</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Corset Vaquero size XS</nombre>
+                <referencia>2656</referencia>
+                <precio>24.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Top Detalle Brillos</nombre>
+                <referencia>7954</referencia>
+                <precio>19.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Romina</nombre>
+            <apellidos>Guarimán Aguirre</apellidos>
+            <telefono>653-158-798</telefono>
+            <direccion>
+                <calle>Calle de los Gremios 3</calle>
+                <ciudad>Alsacia</ciudad>
+                <codigo_postal>28451</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>rominaga@gmail.com</correo>
+            <fecha_inclusion>2021-06-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0013</numero_pedido>
+                <fecha_compra>2021-06-04</fecha_compra>
+                <fecha_entrega>2021-06-11</fecha_entrega>
+                <total_factura>54.40</total_factura>
+            <producto>
+                <nombre>Blusa Roja Satin size M</nombre>
+                <referencia>7856</referencia>
+                <precio>12.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalon High Waist size S</nombre>
+                <referencia>1645</referencia>
+                <precio>20.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Sudadera Basic Blue size M</nombre>
+                <referencia>9047</referencia>
+                <precio>20.50</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Raybel</nombre>
+            <apellidos>Guarimán Aguirre</apellidos>
+            <telefono>653-458-745</telefono>
+            <direccion>
+                <calle>Calle de Trujillo 3</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28211</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>rgseguridad@gmail.com</correo>
+            <fecha_inclusion>2021-06-15</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0014</numero_pedido>
+                <fecha_compra>2021-07-15</fecha_compra>
+                <fecha_entrega>2021-07-18</fecha_entrega>
+                <total_factura>94.95</total_factura>
+            <producto>
+                <nombre>Pantalón de Lino size M</nombre>
+                <referencia>1789</referencia>
+                <precio>29.00</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Cazadora Militar Print size M</nombre>
+                <referencia>4785</referencia>
+                <precio>55.95</precio>
+                <unidades>1</unidades>
+            </producto>
+        </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Borja</nombre>
+            <apellidos>Fernández Cascos</apellidos>
+            <telefono>628-458-798</telefono>
+            <direccion>
+                <calle>Calle de la Alhambra 23</calle>
+                <ciudad>Conil</ciudad>
+                <codigo_postal>24651</codigo_postal>
+                <provincia>Cádiz</provincia>
+            </direccion>
+            <correo>borjafdez@gmail.com</correo>
+            <fecha_inclusion>2021-07-19</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0015</numero_pedido>
+                <fecha_compra>2021-07-19</fecha_compra>
+                <fecha_entrega>2021-07-25</fecha_entrega>
+                <total_factura>55.93</total_factura>
+            <producto>
+                <nombre>Polo Basic Rojo size M</nombre>
+                <referencia>5987</referencia>
+                <precio>17.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Jogger de Algodón size M</nombre>
+                <referencia>1452</referencia>
+                <precio>29.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pack Gorros Lana</nombre>
+                <referencia>3784</referencia>
+                <precio>7.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0016</numero_pedido>
+                <fecha_compra>2021-06-22</fecha_compra>
+                <fecha_entrega>2021-06-25</fecha_entrega>
+                <total_factura>85.89</total_factura>
+            <producto>
+                <nombre>Set pulseras doradas</nombre>
+                <referencia>07985</referencia>
+                <precio>7.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Corset Satinado size XS</nombre>
+                <referencia>2897</referencia>
+                <precio>27.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Bomber Lentejuelas size S</nombre>
+                <referencia>2658</referencia>
+                <precio>49.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0017</numero_pedido>
+                <fecha_compra>2021-06-23</fecha_compra>
+                <fecha_entrega>2021-06-26</fecha_entrega>
+                <total_factura>45.95</total_factura>
+            <producto>
+                <nombre>Mocasín Metalizado size 39</nombre>
+                <referencia>07954</referencia>
+                <precio>45.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0018</numero_pedido>
+                <fecha_compra>2021-06-24</fecha_compra>
+                <fecha_entrega>2021-06-27</fecha_entrega>
+                <total_factura>29.95</total_factura>
+            <producto>
+                <nombre>Bandolera Acolchada White</nombre>
+                <referencia>1459</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0019</numero_pedido>
+                <fecha_compra>2021-06-25</fecha_compra>
+                <fecha_entrega>2021-06-28</fecha_entrega>
+                <total_factura>22.95</total_factura>
+            <producto>
+                <nombre>Bolso Mini City Coco</nombre>
+                <referencia>1254</referencia>
+                <precio>22.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Lucía</nombre>
+            <apellidos>Martínez Bellota</apellidos>
+            <telefono>489-652-123</telefono>
+            <direccion>
+                <calle>Calle Alfonso XV</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>28982</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>luciabellota@gmail.com</correo>
+            <fecha_inclusion>2021-06-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0020</numero_pedido>
+                <fecha_compra>2021-06-26</fecha_compra>
+                <fecha_entrega>2021-06-29</fecha_entrega>
+                <total_factura>29.95</total_factura>
+            <producto>
+                <nombre>Pantalón Bajo Vuelta size S</nombre>
+                <referencia>5984</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        </trimestre>
+        <trimestre trimestre="3">
+        <pedido>
+            <nombre>Jessica</nombre>
+            <apellidos>Domínguez del Barco</apellidos>
+            <telefono>489-128-456</telefono>
+            <direccion>
+                <calle>Calle Trafalgar 14</calle>
+                <ciudad>Vallecas</ciudad>
+                <codigo_postal>28945</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>jessicadomin@gmail.com</correo>
+            <fecha_inclusion>2021-08-01</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0021</numero_pedido>
+                <fecha_compra>2021-08-02</fecha_compra>
+                <fecha_entrega>2021-08-05</fecha_entrega>
+                <total_factura>49.90</total_factura>
+            <producto>
+                <nombre>Jeans Baggy size S</nombre>
+                <referencia>4789</referencia>
+                <precio>19.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Cargo Jeans size S</nombre>
+                <referencia>4895</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Marta</nombre>
+            <apellidos>Cruz de la Torre</apellidos>
+            <telefono>145-652-123</telefono>
+            <direccion>
+                <calle>Calle de la Armonía 15</calle>
+                <ciudad>Villaverde</ciudad>
+                <codigo_postal>28147</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>marta.delacruz@gmail.com</correo>
+            <fecha_inclusion>2021-08-01</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0022</numero_pedido>
+                <fecha_compra>2021-08-03</fecha_compra>
+                <fecha_entrega>2021-08-06</fecha_entrega>
+                <total_factura>43.90</total_factura>
+            <producto>
+                <nombre>Falda Recta Punto Rayas size M</nombre>
+                <referencia>4512</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Sudadera Soft size L</nombre>
+                <referencia>4789</referencia>
+                <precio>17.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Clara</nombre>
+            <apellidos>Aguirre Serrano</apellidos>
+            <telefono>622-154-898</telefono>
+            <direccion>
+                <calle>Calle del Arrabal 12</calle>
+                <ciudad>Don Benito</ciudad>
+                <codigo_postal>28147</codigo_postal>
+                <provincia>Badajoz</provincia>
+            </direccion>
+            <correo>clara1398@gmail.com</correo>
+            <fecha_inclusion>2021-08-02</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0023</numero_pedido>
+                <fecha_compra>2021-08-05</fecha_compra>
+                <fecha_entrega>2021-08-09</fecha_entrega>
+                <total_factura>125.85</total_factura>
+            <producto>
+                <nombre>Sudadera Crop Punto Capucha size XL</nombre>
+                <referencia>4556</referencia>
+                <precio>27.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Body Combinado Tul size L</nombre>
+                <referencia>4745</referencia>
+                <precio>17.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Gabardina Efecto Piel size XL</nombre>
+                <referencia>4655</referencia>
+                <precio>79.95</precio>
+                <unidades>1</unidades>
+            </producto>
+        </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Josefa</nombre>
+            <apellidos>Cascos Cruces</apellidos>
+            <telefono>622-451-745</telefono>
+            <direccion>
+                <calle>Calle Colón 7</calle>
+                <ciudad>Campanario</ciudad>
+                <codigo_postal>2747</codigo_postal>
+                <provincia>Badajoz</provincia>
+            </direccion>
+            <correo>crucesjosefa@gmail.com</correo>
+            <fecha_inclusion>2021-08-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0024</numero_pedido>
+                <fecha_compra>2021-08-05</fecha_compra>
+                <fecha_entrega>2021-08-09</fecha_entrega>
+                <total_factura>71.89</total_factura>
+            <producto>
+                <nombre>Mono Elástico size S</nombre>
+                <referencia>0548</referencia>
+                <precio>19.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Mono Largo Cargo size XS</nombre>
+                <referencia>7954</referencia>
+                <precio>35.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Mono Cruzado Satinado size S</nombre>
+                <referencia>5642</referencia>
+                <precio>15.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0025</numero_pedido>
+                <fecha_compra>2021-08-07</fecha_compra>
+                <fecha_entrega>2021-08-12</fecha_entrega>
+                <total_factura>137.85</total_factura>
+            <producto>
+                <nombre>Camisa Estampada Cadena size S</nombre>
+                <referencia>8784</referencia>
+                <precio>27.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Vestido Punto Drapeado</nombre>
+                <referencia>7819</referencia>
+                <precio>19.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Bota Cowboy Serraje size 37</nombre>
+                <referencia>5684</referencia>
+                <precio>89.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0026</numero_pedido>
+                <fecha_compra>2021-08-08</fecha_compra>
+                <fecha_entrega>2021-08-14</fecha_entrega>
+                <total_factura>52.94</total_factura>
+            <producto>
+                <nombre>Botas Tacón XL size 37</nombre>
+                <referencia>8794</referencia>
+                <precio>29.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón Popelín Rayas size S</nombre>
+                <referencia>4784</referencia>
+                <precio>22.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0027</numero_pedido>
+                <fecha_compra>2021-08-09</fecha_compra>
+                <fecha_entrega>2021-08-16</fecha_entrega>
+                <total_factura>15.99</total_factura>
+            <producto>
+                <nombre>Perfume Red Temptation 80ML</nombre>
+                <referencia>3658</referencia>
+                <precio>15.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0028</numero_pedido>
+                <fecha_compra>2021-08-10</fecha_compra>
+                <fecha_entrega>2021-08-17</fecha_entrega>
+                <total_factura>25.94</total_factura>
+            <producto>
+                <nombre>Top Básico Pink size S</nombre>
+                <referencia>0125</referencia>
+                <precio>9.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Top Punto Hilo Metalizado size S</nombre>
+                <referencia>7987</referencia>
+                <precio>15.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0029</numero_pedido>
+                <fecha_compra>2021-08-25</fecha_compra>
+                <fecha_entrega>2021-08-28</fecha_entrega>
+                <total_factura>99.95</total_factura>
+            <producto>
+                <nombre>Abrigo Lana size S</nombre>
+                <referencia>8512</referencia>
+                <precio>99.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Oana</nombre>
+            <apellidos>Gabriela Craciun</apellidos>
+            <telefono>622-789-462</telefono>
+            <direccion>
+                <calle>Calle Clavel 5</calle>
+                <ciudad>Parla</ciudad>
+                <codigo_postal>2897</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>oanagrabriela@gmail.com</correo>
+            <fecha_inclusion>2021-08-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0030</numero_pedido>
+                <fecha_compra>2021-08-28</fecha_compra>
+                <fecha_entrega>2021-08-03</fecha_entrega>
+                <total_factura>12.95</total_factura>
+            <producto>
+                <nombre>Pendientes Perlas Brillos</nombre>
+                <referencia>2354</referencia>
+                <precio>12.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+    </trimestre>
+        <trimestre trimestre="4">
+        <pedido>
+            <nombre>Patricia</nombre>
+            <apellidos>Conde del Álamo</apellidos>
+            <telefono>289-789-158</telefono>
+            <direccion>
+                <calle>Calle Toledo 5</calle>
+                <ciudad>Madrid</ciudad>
+                <codigo_postal>28854</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>patriconde@gmail.com</correo>
+            <fecha_inclusion>2021-09-02</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0031</numero_pedido>
+                <fecha_compra>2021-09-02</fecha_compra>
+                <fecha_entrega>2021-09-07</fecha_entrega>
+                <total_factura>121.85</total_factura>
+            <producto>
+                <nombre>Falda Midi Tubo size S</nombre>
+                <referencia>1255</referencia>
+                <precio>20.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Bota alta Track size 38</nombre>
+                <referencia>1452</referencia>
+                <precio>49.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Chaqueta corta Acolchada size S</nombre>
+                <referencia>7894</referencia>
+                <precio>50.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Fernando</nombre>
+            <apellidos>Rosales Pérez</apellidos>
+            <telefono>248-741-158</telefono>
+            <direccion>
+                <calle>Calle de Ópera 15</calle>
+                <ciudad>Madrid</ciudad>
+                <codigo_postal>28854</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>fernando.rosa@gmail.com</correo>
+            <fecha_inclusion>2021-09-03</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0032</numero_pedido>
+                <fecha_compra>2021-09-03</fecha_compra>
+                <fecha_entrega>2021-09-07</fecha_entrega>
+                <total_factura>131.85</total_factura>
+            <producto>
+                <nombre>Sudadera Gáfico Picasso size M</nombre>
+                <referencia>1789</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Sobrecamisa Efecto Ante size M</nombre>
+                <referencia>1462</referencia>
+                <precio>45.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón Punto Jogger size M</nombre>
+                <referencia>7462</referencia>
+                <precio>55.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>José</nombre>
+            <apellidos>Montero Rodríguez</apellidos>
+            <telefono>248-477-523</telefono>
+            <direccion>
+                <calle>Calle de la Costa 17</calle>
+                <ciudad>Colmenar Viejo</ciudad>
+                <codigo_postal>28854</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>josemont@gmail.com</correo>
+            <fecha_inclusion>2021-09-04</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0033</numero_pedido>
+                <fecha_compra>2021-09-04</fecha_compra>
+                <fecha_entrega>2021-09-08</fecha_entrega>
+                <total_factura>93.89</total_factura>
+            <producto>
+                <nombre>Chaleco Punto Lana size L</nombre>
+                <referencia>0598</referencia>
+                <precio>49.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pantalón Jogger gris size XL</nombre>
+                <referencia>7895</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Camiseta Zebra Print size L</nombre>
+                <referencia>6581</referencia>
+                <precio>17.99</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Alejandro</nombre>
+            <apellidos>Borrego Merino</apellidos>
+            <telefono>789-452-123</telefono>
+            <direccion>
+                <calle>Calle Domingo 1</calle>
+                <ciudad>Tres Cantos</ciudad>
+                <codigo_postal>28854</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>alejandroborrego@gmail.com</correo>
+            <fecha_inclusion>2021-09-05</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0034</numero_pedido>
+                <fecha_compra>2021-09-06</fecha_compra>
+                <fecha_entrega>2021-09-010</fecha_entrega>
+                <total_factura>92.85</total_factura>
+            <producto>
+                <nombre>Camisa Estructura Rayas size S</nombre>
+                <referencia>0784</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Mocasín Track</nombre>
+                <referencia>1254</referencia>
+                <precio>39.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Cobata Básica Otomán Azul</nombre>
+                <referencia>8541</referencia>
+                <precio>22.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0035</numero_pedido>
+                <fecha_compra>2021-09-06</fecha_compra>
+                <fecha_entrega>2021-09-11</fecha_entrega>
+                <total_factura>55.90</total_factura>
+            <producto>
+                <nombre>Cinturón Fajín Piel</nombre>
+                <referencia>4125</referencia>
+                <precio>29.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Sombrero Fieltro Clásico</nombre>
+                <referencia>6548</referencia>
+                <precio>25.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0036</numero_pedido>
+                <fecha_compra>2021-09-25</fecha_compra>
+                <fecha_entrega>2021-09-27</fecha_entrega>
+                <total_factura>29.85</total_factura>
+            <producto>
+                <nombre>Pañuelo Satinado Estampado</nombre>
+                <referencia>6587</referencia>
+                <precio>9.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pañuelo con Lana Estampado</nombre>
+                <referencia>6589</referencia>
+                <precio>9.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Pañuelo Seda Estampado</nombre>
+                <referencia>6590</referencia>
+                <precio>9.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido> 
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0037</numero_pedido>
+                <fecha_compra>2021-10-02</fecha_compra>
+                <fecha_entrega>2021-10-07</fecha_entrega>
+                <total_factura>40.00</total_factura>
+            <producto>
+                <nombre>Tarjeta de Regalo</nombre>
+                <referencia>1068</referencia>
+                <precio>40.00</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0038</numero_pedido>
+                <fecha_compra>2021-10-15</fecha_compra>
+                <fecha_entrega>2021-10-18</fecha_entrega>
+                <total_factura>28.90</total_factura>
+            <producto>
+                <nombre>Bralette Encaje Triangular size S</nombre>
+                <referencia>0698</referencia>
+                <precio>15.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Culotte Seamless size XS</nombre>
+                <referencia>07854</referencia>
+                <precio>12.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0039</numero_pedido>
+                <fecha_compra>2021-10-20</fecha_compra>
+                <fecha_entrega>2021-10-25</fecha_entrega>
+                <total_factura>105.90</total_factura>
+            <producto>
+                <nombre>Blazer Cruzada Estructura size S</nombre>
+                <referencia>7123</referencia>
+                <precio>55.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            <producto>
+                <nombre>Blazer Recta Oversize size S</nombre>
+                <referencia>7127</referencia>
+                <precio>49.95</precio>
+                <unidades>1</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+        <pedido>
+            <nombre>Andrea</nombre>
+            <apellidos>Palacios Corona</apellidos>
+            <telefono>789-321-987</telefono>
+            <direccion>
+                <calle>Calle Paz 5</calle>
+                <ciudad>Torrejón de la Calzada</ciudad>
+                <codigo_postal>28745</codigo_postal>
+                <provincia>Madrid</provincia>
+            </direccion>
+            <correo>andreapala@gmail.com</correo>
+            <fecha_inclusion>2021-09-06</fecha_inclusion>
+            <detalle_pedido>
+                <numero_pedido>0040</numero_pedido>
+                <fecha_compra>2021-10-23</fecha_compra>
+                <fecha_entrega>2021-10-29</fecha_entrega>
+                <total_factura>45.90</total_factura>
+            <producto>
+                <nombre>Chaleco Bolsillos Multiusos size S</nombre>
+                <referencia>3258</referencia>
+                <precio>22.95</precio>
+                <unidades>2</unidades>
+            </producto>
+            </detalle_pedido>
+        </pedido>
+    </trimestre>
+    </año>
+
+
+        <año año="2022">
+            <trimestre trimestre="1">
+            <pedido>
+                <nombre>Daniela</nombre>
+                <apellidos>Martinez Rodolfo</apellidos>
+                <telefono>653-458-798</telefono>
+                <direccion>
+                    <calle>Calle del Sol 123</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28001</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>danielita@gmail.com</correo>
+                <fecha_inclusion>2022-01-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0041</numero_pedido>
+                    <fecha_compra>2022-01-15</fecha_compra>
+                    <fecha_entrega>2022-01-18</fecha_entrega>
+                    <total_factura>76.45</total_factura>
+                <producto>
+                    <nombre>Camiseta basic blue size S</nombre>
+                    <referencia>1234</referencia>
+                    <precio>20.00</precio>
+                    <unidades>2</unidades>
+                </producto>
+                <producto>
+                    <nombre>Leggin cuero size S</nombre>
+                    <referencia>5678</referencia>
+                    <precio>35.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Jersey de lana size S</nombre>
+                    <referencia>9012</referencia>
+                    <precio>20.50</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Diego</nombre>
+                <apellidos>Camilo Triunfo</apellidos>
+                <telefono>156-785-466</telefono>
+                <direccion>
+                    <calle>Calle de la Luna 456</calle>
+                    <ciudad>Barcelona</ciudad>
+                    <codigo_postal>08001</codigo_postal>
+                    <provincia>Barcelona</provincia>
+                </direccion>
+                <correo>diego@gmail.com</correo>
+                <fecha_inclusion>2022-02-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0042</numero_pedido>
+                    <fecha_compra>2022-02-01</fecha_compra>
+                    <fecha_entrega>2022-02-04</fecha_entrega>
+                    <total_factura>51.90</total_factura>
+                <producto>
+                    <nombre>Camisa rayas verdes print size M</nombre>
+                    <referencia>5678</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalón Jogger Algodón size M</nombre>
+                    <referencia>9012</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Keyla</nombre>
+                <apellidos>Manchester Rold</apellidos>
+                <telefono>653-458-985</telefono>
+                <direccion>
+                    <calle>Calle de los Planetas 45</calle>
+                    <ciudad>Jaén</ciudad>
+                    <codigo_postal>47852</codigo_postal>
+                    <provincia>Baeza</provincia>
+                </direccion>
+                <correo>keyla@gmail.com</correo>
+                <fecha_inclusion>2022-02-22</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0043</numero_pedido>
+                    <fecha_compra>2022-02-22</fecha_compra>
+                    <fecha_entrega>2022-02-29</fecha_entrega>
+                    <total_factura>69.95</total_factura>
+                <producto>
+                    <nombre>Bomber con capucha size L</nombre>
+                    <referencia>5014</referencia>
+                    <precio>69.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Peter</nombre>
+                <apellidos>Federico Pérez</apellidos>
+                <telefono>458-789-123</telefono>
+                <direccion>
+                    <calle>Calle del Canal 8</calle>
+                    <ciudad>Gandía</ciudad>
+                    <codigo_postal>69877</codigo_postal>
+                    <provincia>Valencia</provincia>
+                </direccion>
+                <correo>peter.12@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0044</numero_pedido>
+                    <fecha_compra>2022-02-23</fecha_compra>
+                    <fecha_entrega>2022-02-30</fecha_entrega>
+                    <total_factura>19.99</total_factura>
+                <producto>
+                    <nombre>Pack gorros size M</nombre>
+                    <referencia>01248</referencia>
+                    <precio>19.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0045</numero_pedido>
+                    <fecha_compra>2022-02-23</fecha_compra>
+                    <fecha_entrega>2022-02-26</fecha_entrega>
+                    <total_factura>38.94</total_factura>
+                <producto>
+                    <nombre>Sudadera Oversized size S</nombre>
+                    <referencia>2145</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Leggins sintéticos size XS</nombre>
+                    <referencia>1498</referencia>
+                    <precio>12.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0046</numero_pedido>
+                    <fecha_compra>2022-02-25</fecha_compra>
+                    <fecha_entrega>2022-02-27</fecha_entrega>
+                    <total_factura>46.90</total_factura>
+                <producto>
+                    <nombre>Jean Regular Fit size M</nombre>
+                    <referencia>6584</referencia>
+                    <precio>30.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Sudadera Basic Beige size M</nombre>
+                    <referencia>1479</referencia>
+                    <precio>15.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0047</numero_pedido>
+                    <fecha_compra>2022-03-01</fecha_compra>
+                    <fecha_entrega>2022-03-05</fecha_entrega>
+                    <total_factura>66.90</total_factura>
+                <producto>
+                    <nombre>Joggers de algodón size M</nombre>
+                    <referencia>0458</referencia>
+                    <precio>20.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Chaqueta Cuero size M</nombre>
+                    <referencia>0698</referencia>
+                    <precio>45.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0048</numero_pedido>
+                    <fecha_compra>2022-03-03</fecha_compra>
+                    <fecha_entrega>2022-03-06</fecha_entrega>
+                    <total_factura>19.99</total_factura>
+                <producto>
+                    <nombre>Camiseta estampado Print size M</nombre>
+                    <referencia>2895</referencia>
+                    <precio>19.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0049</numero_pedido>
+                    <fecha_compra>2022-03-06</fecha_compra>
+                    <fecha_entrega>2022-05-08</fecha_entrega>
+                    <total_factura>15.95</total_factura>
+                <producto>
+                    <nombre>Pack Gorros</nombre>
+                    <referencia>7895</referencia>
+                    <precio>15.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Fernández Torrijos</apellidos>
+                <telefono>653-297-985</telefono>
+                <direccion>
+                    <calle>Calle de la Fantasía 22</calle>
+                    <ciudad>Pinto</ciudad>
+                    <codigo_postal>28795</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>mrebecaf@gmail.com</correo>
+                <fecha_inclusion>2022-02-23</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0050</numero_pedido>
+                    <fecha_compra>2022-03-07</fecha_compra>
+                    <fecha_entrega>2022-03-11</fecha_entrega>
+                    <total_factura>14.94</total_factura>
+                <producto>
+                    <nombre>Set pulseras doradas</nombre>
+                    <referencia>01248</referencia>
+                    <precio>7.99</precio>
+                    <unidades>1</unidades>
+                    </producto>
+                <producto>
+                    <nombre>Pack calcetines size 40</nombre>
+                    <referencia>3695</referencia>
+                    <precio>6.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+        </trimestre>
+            <trimestre trimestre="2">
+            <pedido>
+                <nombre>Tamara</nombre>
+                <apellidos>Del Prado Azul</apellidos>
+                <telefono>633-478-462</telefono>
+                <direccion>
+                    <calle>Calle del Parque 78</calle>
+                    <ciudad>Getafe</ciudad>
+                    <codigo_postal>28565</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>malenaprad@gmail.com</correo>
+                <fecha_inclusion>2022-06-02-</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0051</numero_pedido>
+                    <fecha_compra>2022-06-02</fecha_compra>
+                    <fecha_entrega>2022-06-09</fecha_entrega>
+                    <total_factura>91.85</total_factura>
+                <producto>
+                    <nombre>Vestido Satinado Azul size S</nombre>
+                    <referencia>2387</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalón Skinny size S</nombre>
+                    <referencia>8951</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Blazer Crop Black size S</nombre>
+                    <referencia>1238</referencia>
+                    <precio>39.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Wendy</nombre>
+                <apellidos>Génesis Verde</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>luciabellota@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0052</numero_pedido>
+                    <fecha_compra>2022-06-03</fecha_compra>
+                    <fecha_entrega>2022-06-10</fecha_entrega>
+                    <total_factura>64.94</total_factura>
+                <producto>
+                    <nombre>Vestido Midi Licra size S</nombre>
+                    <referencia>02574</referencia>
+                    <precio>20.00</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Corset Vaquero size XS</nombre>
+                    <referencia>2656</referencia>
+                    <precio>24.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Top Detalle Brillos</nombre>
+                    <referencia>7954</referencia>
+                    <precio>19.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Trixy</nombre>
+                <apellidos>Ramirez Octavio</apellidos>
+                <telefono>653-158-798</telefono>
+                <direccion>
+                    <calle>Calle de los Gremios 3</calle>
+                    <ciudad>Alsacia</ciudad>
+                    <codigo_postal>28451</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>rominaga@gmail.com</correo>
+                <fecha_inclusion>2021-06-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0053</numero_pedido>
+                    <fecha_compra>2022-06-04</fecha_compra>
+                    <fecha_entrega>2022-06-11</fecha_entrega>
+                    <total_factura>54.40</total_factura>
+                <producto>
+                    <nombre>Blusa Roja Satin size M</nombre>
+                    <referencia>7856</referencia>
+                    <precio>12.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalon High Waist size S</nombre>
+                    <referencia>1645</referencia>
+                    <precio>20.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Sudadera Basic Blue size M</nombre>
+                    <referencia>9047</referencia>
+                    <precio>20.50</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Raybel</nombre>
+                <apellidos>Guarimán Aguirre</apellidos>
+                <telefono>653-458-745</telefono>
+                <direccion>
+                    <calle>Calle de Trujillo 3</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28211</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>rgseguridad@gmail.com</correo>
+                <fecha_inclusion>2022-06-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0054</numero_pedido>
+                    <fecha_compra>2022-07-15</fecha_compra>
+                    <fecha_entrega>2022-07-18</fecha_entrega>
+                    <total_factura>94.95</total_factura>
+                <producto>
+                    <nombre>Pantalón de Lino size M</nombre>
+                    <referencia>1789</referencia>
+                    <precio>29.00</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Cazadora Militar Print size M</nombre>
+                    <referencia>4785</referencia>
+                    <precio>55.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+            </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Borja</nombre>
+                <apellidos>Fernández Cascos</apellidos>
+                <telefono>628-458-798</telefono>
+                <direccion>
+                    <calle>Calle de la Alhambra 23</calle>
+                    <ciudad>Conil</ciudad>
+                    <codigo_postal>24651</codigo_postal>
+                    <provincia>Cádiz</provincia>
+                </direccion>
+                <correo>borjafdez@gmail.com</correo>
+                <fecha_inclusion>2022-07-19</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0055</numero_pedido>
+                    <fecha_compra>2022-07-19</fecha_compra>
+                    <fecha_entrega>2022-07-25</fecha_entrega>
+                    <total_factura>55.93</total_factura>
+                <producto>
+                    <nombre>Sudadera oversized size M</nombre>
+                    <referencia>5987</referencia>
+                    <precio>17.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Jogger de Algodón Verde size M</nombre>
+                    <referencia>1452</referencia>
+                    <precio>29.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pack Gorros Lana</nombre>
+                    <referencia>3784</referencia>
+                    <precio>7.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Santilario delgado</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0056</numero_pedido>
+                    <fecha_compra>2022-06-22</fecha_compra>
+                    <fecha_entrega>2022-06-25</fecha_entrega>
+                    <total_factura>85.89</total_factura>
+                <producto>
+                    <nombre>Set pinzas doradas</nombre>
+                    <referencia>07985</referencia>
+                    <precio>7.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Corset Vaquero size XS</nombre>
+                    <referencia>2897</referencia>
+                    <precio>27.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Vestido ajustado rojo size S</nombre>
+                    <referencia>2658</referencia>
+                    <precio>49.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Santilario delgado</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0057</numero_pedido>
+                    <fecha_compra>2022-06-23</fecha_compra>
+                    <fecha_entrega>2022-06-26</fecha_entrega>
+                    <total_factura>45.95</total_factura>
+                <producto>
+                    <nombre>Mocasín Metalizado size 39</nombre>
+                    <referencia>07954</referencia>
+                    <precio>45.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Santilario delgado</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0058</numero_pedido>
+                    <fecha_compra>2022-06-24</fecha_compra>
+                    <fecha_entrega>2022-06-27</fecha_entrega>
+                    <total_factura>29.95</total_factura>
+                <producto>
+                    <nombre>Bolso Militar White</nombre>
+                    <referencia>1459</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Santilario delgado</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0059</numero_pedido>
+                    <fecha_compra>2022-06-25</fecha_compra>
+                    <fecha_entrega>2022-06-28</fecha_entrega>
+                    <total_factura>22.95</total_factura>
+                <producto>
+                    <nombre>Bolso Mini City Coco</nombre>
+                    <referencia>1254</referencia>
+                    <precio>22.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sara</nombre>
+                <apellidos>Santilario delgado</apellidos>
+                <telefono>489-652-123</telefono>
+                <direccion>
+                    <calle>Calle Alfonso XV</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>28982</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>sara@gmail.com</correo>
+                <fecha_inclusion>2022-06-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0060</numero_pedido>
+                    <fecha_compra>2022-06-26</fecha_compra>
+                    <fecha_entrega>2022-06-29</fecha_entrega>
+                    <total_factura>29.95</total_factura>
+                <producto>
+                    <nombre>Pantalón Lino size S</nombre>
+                    <referencia>5984</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+        </trimestre>
+            <trimestre trimestre="3">
+            <pedido>
+                <nombre>Roberta</nombre>
+                <apellidos>Elizondo Rastro</apellidos>
+                <telefono>489-128-456</telefono>
+                <direccion>
+                    <calle>Calle Trafalgar 9</calle>
+                    <ciudad>Vallecas</ciudad>
+                    <codigo_postal>28945</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>roberta@gmail.com</correo>
+                <fecha_inclusion>2022-08-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0061</numero_pedido>
+                    <fecha_compra>2022-08-02</fecha_compra>
+                    <fecha_entrega>2022-08-05</fecha_entrega>
+                    <total_factura>49.90</total_factura>
+                <producto>
+                    <nombre>Trench Marrón size S</nombre>
+                    <referencia>4789</referencia>
+                    <precio>19.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Cargo Pants size S</nombre>
+                    <referencia>4895</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Raquel</nombre>
+                <apellidos>Cruz de Tenerife</apellidos>
+                <telefono>145-652-123</telefono>
+                <direccion>
+                    <calle>Calle de la Armonía 15</calle>
+                    <ciudad>Villaverde</ciudad>
+                    <codigo_postal>28147</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>raquelita@gmail.com</correo>
+                <fecha_inclusion>2022-08-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0062</numero_pedido>
+                    <fecha_compra>2022-08-03</fecha_compra>
+                    <fecha_entrega>2022-08-06</fecha_entrega>
+                    <total_factura>43.90</total_factura>
+                <producto>
+                    <nombre>Falda Varsity size M</nombre>
+                    <referencia>4512</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Sudadera Basic size L</nombre>
+                    <referencia>4789</referencia>
+                    <precio>17.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Clara</nombre>
+                <apellidos>Aguirre Serrano</apellidos>
+                <telefono>622-154-898</telefono>
+                <direccion>
+                    <calle>Calle del Arrabal 12</calle>
+                    <ciudad>Don Benito</ciudad>
+                    <codigo_postal>28147</codigo_postal>
+                    <provincia>Badajoz</provincia>
+                </direccion>
+                <correo>clara1398@gmail.com</correo>
+                <fecha_inclusion>2022-08-02</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0063</numero_pedido>
+                    <fecha_compra>2022-08-05</fecha_compra>
+                    <fecha_entrega>2022-08-09</fecha_entrega>
+                    <total_factura>125.85</total_factura>
+                <producto>
+                    <nombre>Top Crop size XL</nombre>
+                    <referencia>4556</referencia>
+                    <precio>27.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Body Satinado size L</nombre>
+                    <referencia>4745</referencia>
+                    <precio>17.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Gabardina Efecto Piel size XL</nombre>
+                    <referencia>4655</referencia>
+                    <precio>79.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+            </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Sonia</nombre>
+                <apellidos>Cruces Fangos</apellidos>
+                <telefono>622-451-745</telefono>
+                <direccion>
+                    <calle>Calle Colón 7</calle>
+                    <ciudad>Campanario</ciudad>
+                    <codigo_postal>2747</codigo_postal>
+                    <provincia>Badajoz</provincia>
+                </direccion>
+                <correo>sonita@gmail.com</correo>
+                <fecha_inclusion>2022-08-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0064</numero_pedido>
+                    <fecha_compra>2022-08-05</fecha_compra>
+                    <fecha_entrega>2022-08-09</fecha_entrega>
+                    <total_factura>71.89</total_factura>
+                <producto>
+                    <nombre>Mono Encaje size S</nombre>
+                    <referencia>0548</referencia>
+                    <precio>19.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Mono Elegante Black size XS</nombre>
+                    <referencia>7954</referencia>
+                    <precio>35.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Mono Cruzado Satinado size S</nombre>
+                    <referencia>5642</referencia>
+                    <precio>15.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0065</numero_pedido>
+                    <fecha_compra>2022-08-07</fecha_compra>
+                    <fecha_entrega>2022-08-12</fecha_entrega>
+                    <total_factura>137.85</total_factura>
+                <producto>
+                    <nombre>Camisa Cuadros size S</nombre>
+                    <referencia>8784</referencia>
+                    <precio>27.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Vestido Punto Drapeado</nombre>
+                    <referencia>7819</referencia>
+                    <precio>19.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Bota Tacón Serraje size 37</nombre>
+                    <referencia>5684</referencia>
+                    <precio>89.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0066</numero_pedido>
+                    <fecha_compra>2022-08-08</fecha_compra>
+                    <fecha_entrega>2022-08-14</fecha_entrega>
+                    <total_factura>52.94</total_factura>
+                <producto>
+                    <nombre>Botas Tacón XL size 37</nombre>
+                    <referencia>8794</referencia>
+                    <precio>29.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalón Popelín Rayas size S</nombre>
+                    <referencia>4784</referencia>
+                    <precio>22.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0067</numero_pedido>
+                    <fecha_compra>2022-08-09</fecha_compra>
+                    <fecha_entrega>2022-08-16</fecha_entrega>
+                    <total_factura>15.99</total_factura>
+                <producto>
+                    <nombre>Perfume Red Temptation 80ML</nombre>
+                    <referencia>3658</referencia>
+                    <precio>15.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0068</numero_pedido>
+                    <fecha_compra>2022-08-10</fecha_compra>
+                    <fecha_entrega>2022-08-17</fecha_entrega>
+                    <total_factura>25.94</total_factura>
+                <producto>
+                    <nombre>Top Crop Pink size S</nombre>
+                    <referencia>0125</referencia>
+                    <precio>9.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Top Punto Hilo Metalizado size S</nombre>
+                    <referencia>7987</referencia>
+                    <precio>15.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0069</numero_pedido>
+                    <fecha_compra>2022-08-25</fecha_compra>
+                    <fecha_entrega>2022-08-28</fecha_entrega>
+                    <total_factura>99.95</total_factura>
+                <producto>
+                    <nombre>Abrigo Lana size S</nombre>
+                    <referencia>8512</referencia>
+                    <precio>99.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Andrea</nombre>
+                <apellidos>Marina Craciun</apellidos>
+                <telefono>622-789-462</telefono>
+                <direccion>
+                    <calle>Calle Clavel 10</calle>
+                    <ciudad>Parla</ciudad>
+                    <codigo_postal>2897</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>andre@gmail.com</correo>
+                <fecha_inclusion>2022-08-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0070</numero_pedido>
+                    <fecha_compra>2022-08-28</fecha_compra>
+                    <fecha_entrega>2022-08-03</fecha_entrega>
+                    <total_factura>12.95</total_factura>
+                <producto>
+                    <nombre>Pendientes Perlas Brillos</nombre>
+                    <referencia>2354</referencia>
+                    <precio>12.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+        </trimestre>
+            <trimestre trimestre="4">
+            <pedido>
+                <nombre>Cristina</nombre>
+                <apellidos>Chen Chen</apellidos>
+                <telefono>289-789-158</telefono>
+                <direccion>
+                    <calle>Calle Toledo 5</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28854</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>crischen@gmail.com</correo>
+                <fecha_inclusion>2022-09-02</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0071</numero_pedido>
+                    <fecha_compra>2022-09-02</fecha_compra>
+                    <fecha_entrega>2022-09-07</fecha_entrega>
+                    <total_factura>121.85</total_factura>
+                <producto>
+                    <nombre>Falda Maxi size S</nombre>
+                    <referencia>1255</referencia>
+                    <precio>20.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Mocasín Track size 38</nombre>
+                    <referencia>1452</referencia>
+                    <precio>49.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Chaqueta corta Acolchada size S</nombre>
+                    <referencia>7894</referencia>
+                    <precio>50.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Jorge</nombre>
+                <apellidos>Ramón Cash</apellidos>
+                <telefono>248-741-158</telefono>
+                <direccion>
+                    <calle>Calle de Ópera 15</calle>
+                    <ciudad>Madrid</ciudad>
+                    <codigo_postal>28854</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>jorge@gmail.com</correo>
+                <fecha_inclusion>2022-09-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0072</numero_pedido>
+                    <fecha_compra>2022-09-03</fecha_compra>
+                    <fecha_entrega>2022-09-07</fecha_entrega>
+                    <total_factura>131.85</total_factura>
+                <producto>
+                    <nombre>Sudadera Collab size M</nombre>
+                    <referencia>1789</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Camisa verde rayas size M</nombre>
+                    <referencia>1462</referencia>
+                    <precio>45.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalón Punto size M</nombre>
+                    <referencia>7462</referencia>
+                    <precio>55.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Daniel</nombre>
+                <apellidos>Linares Garzón</apellidos>
+                <telefono>248-477-523</telefono>
+                <direccion>
+                    <calle>Calle de la Costa 7</calle>
+                    <ciudad>Colmenar Viejo</ciudad>
+                    <codigo_postal>28854</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>daniel@gmail.com</correo>
+                <fecha_inclusion>2022-09-04</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0073</numero_pedido>
+                    <fecha_compra>2022-09-04</fecha_compra>
+                    <fecha_entrega>2022-09-08</fecha_entrega>
+                    <total_factura>93.89</total_factura>
+                <producto>
+                    <nombre>Americana Lana size L</nombre>
+                    <referencia>0598</referencia>
+                    <precio>49.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pantalón Jogger gris size XL</nombre>
+                    <referencia>7895</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Camiseta Zebra Print size L</nombre>
+                    <referencia>6581</referencia>
+                    <precio>17.99</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Alejandro</nombre>
+                <apellidos>Tirano López</apellidos>
+                <telefono>789-452-123</telefono>
+                <direccion>
+                    <calle>Calle Domingo 1</calle>
+                    <ciudad>Tres Cantos</ciudad>
+                    <codigo_postal>28854</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>alejtir@gmail.com</correo>
+                <fecha_inclusion>2022-09-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0074</numero_pedido>
+                    <fecha_compra>2022-09-06</fecha_compra>
+                    <fecha_entrega>2022-09-010</fecha_entrega>
+                    <total_factura>92.85</total_factura>
+                <producto>
+                    <nombre>Camiseta Franja Print size S</nombre>
+                    <referencia>0784</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Alpargata beige size 40</nombre>
+                    <referencia>1254</referencia>
+                    <precio>39.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Americana Otomán Azul</nombre>
+                    <referencia>8541</referencia>
+                    <precio>22.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0075</numero_pedido>
+                    <fecha_compra>2022-09-06</fecha_compra>
+                    <fecha_entrega>2022-09-11</fecha_entrega>
+                    <total_factura>55.90</total_factura>
+                <producto>
+                    <nombre>Cinturón Piel</nombre>
+                    <referencia>4125</referencia>
+                    <precio>29.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Gorro Clásico</nombre>
+                    <referencia>6548</referencia>
+                    <precio>25.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0076</numero_pedido>
+                    <fecha_compra>2022-09-25</fecha_compra>
+                    <fecha_entrega>2022-09-27</fecha_entrega>
+                    <total_factura>39.80</total_factura>
+                <producto>
+                    <nombre>Pañuelo Satinado Estampado</nombre>
+                    <referencia>6587</referencia>
+                    <precio>9.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pañuelo con Lana Estampado</nombre>
+                    <referencia>6589</referencia>
+                    <precio>9.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Pañuelo Seda Estampado</nombre>
+                    <referencia>6590</referencia>
+                    <precio>9.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido> 
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0077</numero_pedido>
+                    <fecha_compra>2022-10-02</fecha_compra>
+                    <fecha_entrega>2022-10-07</fecha_entrega>
+                    <total_factura>40.00</total_factura>
+                <producto>
+                    <nombre>Tarjeta de Regalo</nombre>
+                    <referencia>1068</referencia>
+                    <precio>40.00</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0078</numero_pedido>
+                    <fecha_compra>2022-10-15</fecha_compra>
+                    <fecha_entrega>2022-10-18</fecha_entrega>
+                    <total_factura>28.90</total_factura>
+                <producto>
+                    <nombre>Bralette Sameless size S</nombre>
+                    <referencia>0698</referencia>
+                    <precio>15.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Culotte Seamless size XS</nombre>
+                    <referencia>07854</referencia>
+                    <precio>12.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0079</numero_pedido>
+                    <fecha_compra>2022-10-20</fecha_compra>
+                    <fecha_entrega>2022-10-25</fecha_entrega>
+                    <total_factura>105.90</total_factura>
+                <producto>
+                    <nombre>Blazer Cruzada Estructura size L</nombre>
+                    <referencia>7123</referencia>
+                    <precio>55.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                <producto>
+                    <nombre>Blazer Recta Oversize size L</nombre>
+                    <referencia>7127</referencia>
+                    <precio>49.95</precio>
+                    <unidades>1</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <nombre>Natalia</nombre>
+                <apellidos>Ramirez Corona</apellidos>
+                <telefono>789-321-987</telefono>
+                <direccion>
+                    <calle>Calle Paz 5</calle>
+                    <ciudad>Torrejón de la Calzada</ciudad>
+                    <codigo_postal>28745</codigo_postal>
+                    <provincia>Madrid</provincia>
+                </direccion>
+                <correo>nat@gmail.com</correo>
+                <fecha_inclusion>2022-09-06</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>0080</numero_pedido>
+                    <fecha_compra>2022-10-23</fecha_compra>
+                    <fecha_entrega>2022-10-29</fecha_entrega>
+                    <total_factura>22.95</total_factura>
+                <producto>
+                    <nombre>Vestido satinado kimono size S</nombre>
+                    <referencia>3258</referencia>
+                    <precio>22.95</precio>
+                    <unidades>2</unidades>
+                </producto>
+                </detalle_pedido>
+            </pedido>
+        </trimestre>
+    </año>
+</pedidos>
